@@ -1,3 +1,3 @@
-# Product Service CI/CD Pipeline Assessment
+# ci-cd-final-project
 
-This project contains the backend service and CI/CD automation pipelines using GitHub Actions, Tekton, and OpenShift.
+Product Service application with GitHub Actions, Tekton pipelines, and OpenShift deployment.
