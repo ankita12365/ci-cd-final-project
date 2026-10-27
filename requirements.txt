@@ -1,0 +1,12 @@
+flask
+flask-sqlalchemy
+psycopg2-binary
+factory-boy
+faker
+behave
+selenium
+requests
+nose
+coverage
+pylint
+greenlet
